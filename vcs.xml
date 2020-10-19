@@ -42,9 +42,13 @@
           <option name="url" value="http://192.168.1.108:7800/hujj/wms-cli.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/2391492524/erpcode_permission.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\program" />
+    <option name="cloneParentDir" value="E:\myprogram\erp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
