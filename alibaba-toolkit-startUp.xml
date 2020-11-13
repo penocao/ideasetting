@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/work/program/erp-repository/erp_code" startUpFlag="FIRST" />
     <entry projectPath="E:/myprogram" startUpFlag="FIRST" />
     <entry projectPath="E:/myprogram/commonlearn" startUpFlag="FIRST" />
     <entry projectPath="E:/myprogram/erp/erp_code" startUpFlag="FIRST" />
