@@ -102,9 +102,13 @@
           <option name="url" value="https://github.com/Exrick/xboot-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/2391492524/erpcode-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\work\myprogrammer\xboot" />
+    <option name="cloneParentDir" value="D:\work\myprogrammer\erp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
