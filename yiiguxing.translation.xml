@@ -1,29 +1,90 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="blame" />
-      <item value="redundant" />
-      <item value="Anonymous inner class" />
-      <item value="补货合计" />
-      <item value="合计" />
-      <item value="failure" />
-      <item value="annotation" />
+      <item value="maven 3" />
+      <item value="Percent" />
+      <item value="determine" />
+      <item value="上班" />
+      <item value="上班时间" />
+      <item value="封面" />
+      <item value="cover" />
+      <item value="* Basic global error {@link Controller @Controller}, rendering {@link ErrorAttributes}. * More specific errors can be handled either using Spring MVC abstractions (e.g. * {@code @ExceptionHandler}) or by adding servlet * {@link AbstractServletWebServerFactory#setErrorPages server error pages}. *" />
+      <item value="invitees" />
+      <item value="邀请者" />
+      <item value="资源类型" />
+      <item value="source Type" />
+      <item value="完成" />
+      <item value="正常" />
+      <item value="Thing" />
+      <item value="evicting" />
+      <item value="sub File Ext Name" />
+      <item value="sign Out" />
+      <item value="sign In" />
+      <item value="to Int Exact" />
+      <item value="identity" />
+      <item value="最近" />
+      <item value="health Check Interval" />
+      <item value="the intersection of the two collections" />
+      <item value="must Not Conflict" />
+      <item value="Conflict" />
+      <item value="free" />
+      <item value="推荐" />
+      <item value="合作过" />
+      <item value="count" />
+      <item value="待派单" />
+      <item value="History" />
+      <item value="Contact" />
+      <item value="备注" />
+      <item value="remark" />
+      <item value="remarks" />
+      <item value="attendance" />
+      <item value="考勤" />
+      <item value="attendence" />
+      <item value="attdence" />
+      <item value="异常" />
+      <item value="Extention Policy" />
+      <item value="Extention" />
+      <item value="Abort Policy" />
+      <item value="Abort" />
+      <item value="流水号" />
+      <item value="masked" />
+      <item value="primitive type" />
+      <item value="expire" />
+      <item value="过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1064" />
+        <entry key="BOSNIAN" value="1" />
+        <entry key="DANISH" value="6" />
+        <entry key="GERMAN" value="3" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="4" />
+        <entry key="FINNISH" value="2" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="3" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SPANISH" value="4" />
+        <entry key="ITALIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607406899864" />
+  </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190917000334998" />
+      </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="targetLanguageSelection" value="LAST" />
   </component>
 </application>

@@ -23,20 +23,15 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="caseInsensitive" value="true" />
-                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-1" />
+                              <option name="color" value="-935919616" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="bold" value="true" />
-                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -46,11 +41,10 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-1" />
+                              <option name="color" value="-937820105" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="bold" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -77,7 +71,6 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-1" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -90,7 +83,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1595214900852" />
+          <option name="id" value="1564832305283" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>

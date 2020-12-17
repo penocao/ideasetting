@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="cn01.efan.men" />
+    <option name="PROXY_PORT" value="8751" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+  </component>
+</application>
