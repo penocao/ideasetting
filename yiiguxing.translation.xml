@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="底层封装" />
+      <item value="Mpdemo 1010 Application" />
+      <item value="Spring Boot Application" />
+      <item value="update Fill" />
       <item value="Configurer Adapter" />
       <item value="File Properties" />
       <item value="register Cors Configuration" />
@@ -47,15 +51,11 @@
       <item value="异常" />
       <item value="Extention Policy" />
       <item value="Extention" />
-      <item value="Abort Policy" />
-      <item value="Abort" />
-      <item value="流水号" />
-      <item value="masked" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1066" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="1069" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608444222638" />
+    <option name="lastTrimTime" value="1610088879481" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
