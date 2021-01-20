@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limit" />
       <item value="底层封装" />
       <item value="Mpdemo 1010 Application" />
       <item value="Spring Boot Application" />
@@ -50,7 +51,6 @@
       <item value="attdence" />
       <item value="异常" />
       <item value="Extention Policy" />
-      <item value="Extention" />
     </histories>
     <option name="languageScores">
       <map>
