@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotation" />
       <item value="Interceptor" />
       <item value="springframework" />
       <item value="limit" />
@@ -50,12 +51,11 @@
       <item value="attendance" />
       <item value="考勤" />
       <item value="attendence" />
-      <item value="attdence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1073" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
