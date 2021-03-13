@@ -1,0 +1,11 @@
+<templateSet group="method">
+  <template name="z" value="/**&#10;*@Description: $discription$&#10;*@Param: $params$&#10;*@return: $return$&#10;*@Author: your name&#10;*@date: $date$&#10;*/" toReformat="false" toShortenFQNames="true">
+    <variable name="discription" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
