@@ -1,0 +1,45 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="EvaluateExpression" />
+  <action id="ForceRunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Move" />
+  <action id="PreviousDiff" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="RenameElement" />
+  <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="hg4idea.QFold" />
+</keymap>
