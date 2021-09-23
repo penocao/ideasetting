@@ -20,7 +20,13 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="Move" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
   <action id="PreviousDiff" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="shift alt d" />
