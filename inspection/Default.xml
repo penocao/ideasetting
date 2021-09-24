@@ -31,5 +31,10 @@
     <option name="IGNORE_POINT_TO_ITSELF" value="false" />
     <option name="myAdditionalJavadocTags" value="" />
   </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
   <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
 </profile>
