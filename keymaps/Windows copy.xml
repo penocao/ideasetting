@@ -32,13 +32,10 @@
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="RenameElement" />
-  <action id="Replace" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
-  <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="RunToCursor" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
