@@ -85,7 +85,6 @@
         <option name="appId" value="20210923000953585" />
       </app-key>
     </option>
-    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0ca7c8a31032d24a " />
