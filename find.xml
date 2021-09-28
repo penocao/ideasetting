@@ -17,8 +17,8 @@
     <mask>*.gradle</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*</mask>
   </component>
 </application>
