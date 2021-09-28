@@ -4,7 +4,7 @@
     <property name="created">2021-07-14T11:37:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-07-30T14:54:51</property>
+    <property name="modified">2021-09-28T11:19:58</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -62,13 +62,14 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="98c379" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -315,7 +316,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -460,7 +461,6 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -3047,7 +3047,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
