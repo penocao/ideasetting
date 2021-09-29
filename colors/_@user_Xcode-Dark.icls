@@ -3,7 +3,7 @@
     <property name="created">2021-07-14T11:37:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-07-14T11:39:10</property>
+    <property name="modified">2021-09-28T21:58:20</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -367,7 +367,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="f19a9a" />
