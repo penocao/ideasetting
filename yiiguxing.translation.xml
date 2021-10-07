@@ -90,6 +90,7 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
