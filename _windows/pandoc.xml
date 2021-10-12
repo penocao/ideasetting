@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="E:/IdeaProjects/newLeshan/import-resources" />
+  </component>
+</application>
