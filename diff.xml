@@ -57,11 +57,6 @@
           <option name="SHOW_LINE_NUMBERS" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-        </PlaceSettings>
-      </entry>
     </option>
   </component>
 </application>
