@@ -1,9 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="act Mapper" />
-      <item value="delegate" />
-      <item value="The filter is enabled for this specific request, so delegate to subclass implementations so they can decide if the request should continue through the chain or not:" />
       <item value="Rabbit Mq Utils" />
       <item value="Channel" />
       <item value="subject Level One" />
@@ -51,11 +48,14 @@
       <item value="待派单" />
       <item value="History" />
       <item value="Contact" />
+      <item value="备注" />
+      <item value="remark" />
+      <item value="remarks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1076" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634777393808" />
+    <option name="lastTrimTime" value="1634565072584" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -91,6 +91,7 @@
       </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="0ca7c8a31032d24a " />

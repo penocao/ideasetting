@@ -1,20 +1,39 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
+  <action id="GuiDesigner.Duplicate" />
   <action id="Move" />
   <action id="NextDiff" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="SendEOF" />
   <action id="SmartStepInto" />
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f8" />
@@ -22,6 +41,11 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
   <action id="sql.SelectInDatabaseView" />
   <action id="tasks.open.in.browser" />
 </keymap>
