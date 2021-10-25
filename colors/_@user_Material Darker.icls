@@ -4,7 +4,7 @@
     <property name="created">2021-07-14T11:37:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-09-28T11:19:58</property>
+    <property name="modified">2021-10-22T15:36:56</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -62,7 +62,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="98c379" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
