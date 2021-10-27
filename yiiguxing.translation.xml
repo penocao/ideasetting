@@ -77,18 +77,13 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635122933894" />
+    <option name="lastTrimTime" value="1635166463345" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20210923000953585" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
