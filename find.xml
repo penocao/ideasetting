@@ -18,6 +18,7 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*</mask>
   </component>
