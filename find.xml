@@ -16,9 +16,9 @@
     <mask>*Service.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
     <mask>*</mask>
   </component>
 </application>
