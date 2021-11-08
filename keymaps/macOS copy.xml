@@ -29,6 +29,10 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -36,7 +40,7 @@
   <action id="SendEOF" />
   <action id="SmartStepInto" />
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
