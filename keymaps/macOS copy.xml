@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="ForceStepInto" />
   <action id="ForceStepOver" />
   <action id="Github.PullRequest.Comments.Reload" />
@@ -46,6 +49,7 @@
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="Svn.RefreshWorkingCopies" />
+  <action id="ToggleBookmark" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.Refresh" />
   <action id="XDebugger.CopyWatch" />
