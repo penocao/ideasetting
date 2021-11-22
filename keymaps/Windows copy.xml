@@ -43,13 +43,13 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="RecentFiles" />
   <action id="RenameElement" />
-  <action id="Replace" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -62,6 +62,11 @@
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="hg4idea.QFold" />
