@@ -876,7 +876,7 @@
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.coderman.common.dto.UserLoginDTO" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="username+&quot; &quot;+password&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="getUsername() + &quot; &quot;+getPassword()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
