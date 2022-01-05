@@ -869,17 +869,6 @@
     <Renderer ID="ToStringRenderer">
       <option name="ON_DEMAND" value="true" />
     </Renderer>
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundNodeRenderer">
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.coderman.common.dto.UserLoginDTO" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="com.coderman.common.dto.UserLoginDTO" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="getUsername() + &quot; &quot;+getPassword()&#13;&#13;JAVA" />
-        </Renderer>
-      </Renderer>
-    </CustomRenderers>
   </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
