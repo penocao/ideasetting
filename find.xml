@@ -15,10 +15,10 @@
     <mask>*.pom</mask>
     <mask>*Service.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
     <mask>*</mask>
   </component>
 </application>
