@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;target;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="ControllerTemplate" type="FTL" />
       <mapping pattern="ServiceImplTemplate" type="FTL" />
@@ -12,10 +12,10 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="event.xml" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="quedian" type="PLAIN_TEXT" />
       <mapping pattern="L" type="PLAIN_TEXT" />
       <mapping pattern=".gitignored" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="quedian" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
