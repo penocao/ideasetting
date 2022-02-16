@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="mainboot" value="public static void main(String[] args) {&#10;    SpringApplication.run($start$.class,args);&#10;}" description="Springboot的main方法" toReformat="false" toShortenFQNames="false">
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
