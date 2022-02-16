@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.sh;*.yarb;*~;.DS_Store;.git;.hg;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;target;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="ControllerTemplate" type="FTL" />
       <mapping pattern="ServiceImplTemplate" type="FTL" />
