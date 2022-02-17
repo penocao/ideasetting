@@ -91,10 +91,10 @@
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="long" />
           <option name="AppendDefault" value="true" />
-          <ChildrenExpression Name="">
+          <ChildrenExpression Name="" OnDemand="true">
             <TextWithImports text="new Date(this)&#13;java.util.Date&#13;JAVA" type="expression" />
           </ChildrenExpression>
-          <ChildrenExpression Name="">
+          <ChildrenExpression Name="" OnDemand="true">
             <TextWithImports text="new Date(this)&#13;&#13;JAVA" type="expression" />
           </ChildrenExpression>
         </Renderer>
