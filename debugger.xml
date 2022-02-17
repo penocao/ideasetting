@@ -87,6 +87,20 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.financialIntegration.web.FinancialIntegrationController" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.financialIntegration.web.FinancialIntegrationController" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="adminPath+&quot;123&quot;&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.financialIntegration.entity.FinancialIntegration" />
         <option name="SHOW_TYPE" value="false" />
         <Renderer ID="LabelRenderer" role="label">
@@ -96,6 +110,15 @@
         </Renderer>
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.financialIntegration.entity.FinancialIntegration" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="new Date()&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="">
+            <TextWithImports text="type+&quot;3&quot;&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="">
+            <TextWithImports text="type+&quot;2&quot;&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
         </Renderer>
       </Renderer>
     </CustomRenderers>
