@@ -77,9 +77,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644633353501" />
+    <option name="lastTrimTime" value="1645146323216" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tDvwV21aoSuybM7HmAG" />
+      </app-key>
+    </option>
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20210923000953585" />
