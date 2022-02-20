@@ -1,9 +1,19 @@
 <templateSet group="MyGroup">
-  <template name="add" value=" /**&#10;　　* @description: TODO&#10;　　* @param ${tags} &#10;　　* @return ${return_type} &#10;　　* @throws&#10;　　* @author ${USER}&#10;　　* @date $date$ $time$ &#10;*/" description="add commend" toReformat="false" toShortenFQNames="true">
+  <template name="cls" value=" /**&#10;　　* @description: TODO&#10;　　* @param ${tags} &#10;　　* @return ${return_type} &#10;　　* @throws&#10;　　* @author ${USER}&#10;　　* @date $date$ $time$ &#10;*/" shortcut="ENTER" description="在类上使用cls快捷键" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="OTHER" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*" value="*&#10;* @Description: TODO&#10;* @author: $USER$&#10;* @date: $DATE$ $TIME$&#10;$PARAMS$&#10;* @Return: $RETURN$&#10;*/" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="groovyScript(&quot;if(\&quot;${_1}\&quot;.length() == 2) {return '';} else {def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();for(i = 0; i &lt; params.size(); i++) {if(i==0){result+='* @param ' + params[i] + ': '}else{result+='\\n' + '* @param ' + params[i] + ': '}}; return result;}&quot;, methodParameters());" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
