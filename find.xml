@@ -17,9 +17,9 @@
     <mask>*.gradle</mask>
     <mask>*.js</mask>
     <mask>*mapper.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
     <mask>*</mask>
   </component>
 </application>
