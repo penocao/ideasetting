@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arrow style" />
+      <item value="arrow styel" />
+      <item value="arrow" />
+      <item value="a" />
       <item value="Rabbit Mq Utils" />
       <item value="Channel" />
       <item value="subject Level One" />
@@ -47,10 +51,6 @@
       <item value="count" />
       <item value="待派单" />
       <item value="History" />
-      <item value="Contact" />
-      <item value="备注" />
-      <item value="remark" />
-      <item value="remarks" />
     </histories>
     <option name="languageScores">
       <map>
