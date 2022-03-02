@@ -96,8 +96,27 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="className" value="com.jeeplus.modules.ntsoft.assessUnit.web.AssessUnitController" />
+        <option name="method" value="list" />
+        <option name="methodDescription" value="考核单位列表页面" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="jeeplus" />
+        <option name="originUrl" value="${adminPath}/assessUnit/assessUnit/list" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="assessUnit">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="model">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/${adminPath}/assessUnit/assessUnit/list" />
       </ParamGroup>
     </option>
     <option name="projectList">

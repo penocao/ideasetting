@@ -87,6 +87,15 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.scene.entity.SysTable" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.scene.entity.SysTable" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="this.getName()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.scene.entity.SysExport" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.jeeplus.modules.ntsoft.scene.entity.SysExport" />
