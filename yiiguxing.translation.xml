@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="respected" />
+      <item value="semantically" />
       <item value="but these are not absolute requirements. While it is typically the case that:" />
       <item value="The general intent is that" />
       <item value="he general intent is that" />
@@ -49,13 +51,11 @@
       <item value="must Not Conflict" />
       <item value="Conflict" />
       <item value="free" />
-      <item value="推荐" />
-      <item value="合作过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1078" />
-        <entry key="ENGLISH" value="1078" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="6" />
         <entry key="GERMAN" value="3" />
